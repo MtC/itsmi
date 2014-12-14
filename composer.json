@@ -1,0 +1,17 @@
+{
+    "name": "mtc/itsmi",
+    "description": "for now testing",
+    "homepage": "https://github.com/mtc/itsmi",
+    "authors": [{
+        "name": "Michel Koks",
+        "email": "mtcwebber@gmail.com",
+        "role": "Developer"
+        }],
+    "license": "MIT",
+    "require": {
+    "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": { "Itsmi": "Itsmi" }
+    }
+}
