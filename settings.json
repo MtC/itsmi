@@ -1,0 +1,12 @@
+{
+    "mailHost": "webmail8.sohosted.com",
+    "mailUser": "registratie@nt2lab.nl",
+    "mailKey": "hiermoetdeechtesleutelkomen",
+    "registryKey": "",
+    "loginKey": "",
+    "host": "localhost",
+    "dbname": "itsmi",
+    "table": "itsmi",
+    "userName": "root",
+    "password": ""
+}
